@@ -1,0 +1,13 @@
+{
+  "name": "linter-elixirc",
+  "linter-package": true,
+  "main": "./lib/init",
+  "version": "0.0.1",
+  "description": "Linter plugin for elixirc",
+  "repository": "https://github.com/jrdnull/linter-elixirc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
